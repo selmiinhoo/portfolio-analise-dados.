@@ -1,0 +1,121 @@
+id_atendimento,data,categoria,status,tempo_horas
+1001,2026-01-01,Cadastro,Em andamento,5.5
+1002,2026-01-02,Suporte,Resolvido,12.5
+1003,2026-01-03,Faturamento,Resolvido,19.5
+1004,2026-01-04,Cadastro,Resolvido,26.5
+1005,2026-01-05,Suporte,Pendente,33.5
+1006,2026-01-06,Faturamento,Resolvido,9.5
+1007,2026-01-07,Cadastro,Resolvido,16.5
+1008,2026-01-08,Suporte,Resolvido,23.5
+1009,2026-01-09,Faturamento,Em andamento,30.5
+1010,2026-01-10,Cadastro,Resolvido,6.5
+1011,2026-01-11,Suporte,Resolvido,13.5
+1012,2026-01-12,Faturamento,Resolvido,20.5
+1013,2026-01-13,Cadastro,Pendente,27.5
+1014,2026-01-14,Suporte,Resolvido,34.5
+1015,2026-01-15,Faturamento,Resolvido,10.5
+1016,2026-01-16,Cadastro,Resolvido,17.5
+1017,2026-01-17,Suporte,Em andamento,24.5
+1018,2026-01-18,Faturamento,Resolvido,31.5
+1019,2026-01-19,Cadastro,Resolvido,7.5
+1020,2026-01-20,Suporte,Resolvido,14.5
+1021,2026-02-01,Faturamento,Pendente,21.5
+1022,2026-02-02,Cadastro,Resolvido,28.5
+1023,2026-02-03,Suporte,Resolvido,35.5
+1024,2026-02-04,Faturamento,Resolvido,11.5
+1025,2026-02-05,Cadastro,Em andamento,18.5
+1026,2026-02-06,Suporte,Resolvido,25.5
+1027,2026-02-07,Faturamento,Resolvido,32.5
+1028,2026-02-08,Cadastro,Resolvido,8.5
+1029,2026-02-09,Suporte,Pendente,15.5
+1030,2026-02-10,Faturamento,Resolvido,22.5
+1031,2026-02-11,Cadastro,Resolvido,29.5
+1032,2026-02-12,Suporte,Resolvido,5.5
+1033,2026-02-13,Faturamento,Em andamento,12.5
+1034,2026-02-14,Cadastro,Resolvido,19.5
+1035,2026-02-15,Suporte,Resolvido,26.5
+1036,2026-02-16,Faturamento,Resolvido,33.5
+1037,2026-02-17,Cadastro,Pendente,9.5
+1038,2026-02-18,Suporte,Resolvido,16.5
+1039,2026-02-19,Faturamento,Resolvido,23.5
+1040,2026-02-20,Cadastro,Resolvido,30.5
+1041,2026-03-01,Suporte,Em andamento,6.5
+1042,2026-03-02,Faturamento,Resolvido,13.5
+1043,2026-03-03,Cadastro,Resolvido,20.5
+1044,2026-03-04,Suporte,Resolvido,27.5
+1045,2026-03-05,Faturamento,Pendente,34.5
+1046,2026-03-06,Cadastro,Resolvido,10.5
+1047,2026-03-07,Suporte,Resolvido,17.5
+1048,2026-03-08,Faturamento,Resolvido,24.5
+1049,2026-03-09,Cadastro,Em andamento,31.5
+1050,2026-03-10,Suporte,Resolvido,7.5
+1051,2026-03-11,Faturamento,Resolvido,14.5
+1052,2026-03-12,Cadastro,Resolvido,21.5
+1053,2026-03-13,Suporte,Pendente,28.5
+1054,2026-03-14,Faturamento,Resolvido,35.5
+1055,2026-03-15,Cadastro,Resolvido,11.5
+1056,2026-03-16,Suporte,Resolvido,18.5
+1057,2026-03-17,Faturamento,Em andamento,25.5
+1058,2026-03-18,Cadastro,Resolvido,32.5
+1059,2026-03-19,Suporte,Resolvido,8.5
+1060,2026-03-20,Faturamento,Resolvido,15.5
+1061,2026-04-01,Cadastro,Pendente,22.5
+1062,2026-04-02,Suporte,Resolvido,29.5
+1063,2026-04-03,Faturamento,Resolvido,5.5
+1064,2026-04-04,Cadastro,Resolvido,12.5
+1065,2026-04-05,Suporte,Em andamento,19.5
+1066,2026-04-06,Faturamento,Resolvido,26.5
+1067,2026-04-07,Cadastro,Resolvido,33.5
+1068,2026-04-08,Suporte,Resolvido,9.5
+1069,2026-04-09,Faturamento,Pendente,16.5
+1070,2026-04-10,Cadastro,Resolvido,23.5
+1071,2026-04-11,Suporte,Resolvido,30.5
+1072,2026-04-12,Faturamento,Resolvido,6.5
+1073,2026-04-13,Cadastro,Em andamento,13.5
+1074,2026-04-14,Suporte,Resolvido,20.5
+1075,2026-04-15,Faturamento,Resolvido,27.5
+1076,2026-04-16,Cadastro,Resolvido,34.5
+1077,2026-04-17,Suporte,Pendente,10.5
+1078,2026-04-18,Faturamento,Resolvido,17.5
+1079,2026-04-19,Cadastro,Resolvido,24.5
+1080,2026-04-20,Suporte,Resolvido,31.5
+1081,2026-05-01,Faturamento,Em andamento,7.5
+1082,2026-05-02,Cadastro,Resolvido,14.5
+1083,2026-05-03,Suporte,Resolvido,21.5
+1084,2026-05-04,Faturamento,Resolvido,28.5
+1085,2026-05-05,Cadastro,Pendente,35.5
+1086,2026-05-06,Suporte,Resolvido,11.5
+1087,2026-05-07,Faturamento,Resolvido,18.5
+1088,2026-05-08,Cadastro,Resolvido,25.5
+1089,2026-05-09,Suporte,Em andamento,32.5
+1090,2026-05-10,Faturamento,Resolvido,8.5
+1091,2026-05-11,Cadastro,Resolvido,15.5
+1092,2026-05-12,Suporte,Resolvido,22.5
+1093,2026-05-13,Faturamento,Pendente,29.5
+1094,2026-05-14,Cadastro,Resolvido,5.5
+1095,2026-05-15,Suporte,Resolvido,12.5
+1096,2026-05-16,Faturamento,Resolvido,19.5
+1097,2026-05-17,Cadastro,Em andamento,26.5
+1098,2026-05-18,Suporte,Resolvido,33.5
+1099,2026-05-19,Faturamento,Resolvido,9.5
+1100,2026-05-20,Cadastro,Resolvido,16.5
+1101,2026-06-01,Suporte,Pendente,23.5
+1102,2026-06-02,Faturamento,Resolvido,30.5
+1103,2026-06-03,Cadastro,Resolvido,6.5
+1104,2026-06-04,Suporte,Resolvido,13.5
+1105,2026-06-05,Faturamento,Em andamento,20.5
+1106,2026-06-06,Cadastro,Resolvido,27.5
+1107,2026-06-07,Suporte,Resolvido,34.5
+1108,2026-06-08,Faturamento,Resolvido,10.5
+1109,2026-06-09,Cadastro,Pendente,17.5
+1110,2026-06-10,Suporte,Resolvido,24.5
+1111,2026-06-11,Faturamento,Resolvido,31.5
+1112,2026-06-12,Cadastro,Resolvido,7.5
+1113,2026-06-13,Suporte,Em andamento,14.5
+1114,2026-06-14,Faturamento,Resolvido,21.5
+1115,2026-06-15,Cadastro,Resolvido,28.5
+1116,2026-06-16,Suporte,Resolvido,35.5
+1117,2026-06-17,Faturamento,Pendente,11.5
+1118,2026-06-18,Cadastro,Resolvido,18.5
+1119,2026-06-19,Suporte,Resolvido,25.5
+1120,2026-06-20,Faturamento,Resolvido,32.5
