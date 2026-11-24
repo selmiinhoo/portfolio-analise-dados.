@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" role="img" aria-label="120 atendimentos, 90 resolvidos, 15 pendentes e 15 em andamento">
+<rect width="850" height="320" rx="22" fill="#f8fafc"/><text x="35" y="48" font-family="Arial" font-size="25" font-weight="bold" fill="#15243b">Indicadores operacionais · dados fictícios</text>
+<g font-family="Arial" fill="#334155"><text x="35" y="94" font-size="15">Total</text><text x="235" y="94" font-size="15">Resolução</text><text x="465" y="94" font-size="15">Tempo médio</text></g>
+<g font-family="Arial" font-weight="bold" fill="#102f40" font-size="37"><text x="35" y="139">120</text><text x="235" y="139">75%</text><text x="465" y="139">20.6h</text></g>
+<text x="35" y="194" font-family="Arial" font-size="16" fill="#334155">Situação dos atendimentos</text>
+<rect x="35" y="214" width="585" height="28" rx="6" fill="#dbeafe"/><rect x="35" y="214" width="438.75" height="28" rx="6" fill="#0f766e"/><rect x="473.75" y="214" width="73.125" height="28" fill="#f59e0b"/><rect x="546.875" y="214" width="73.125" height="28" rx="5" fill="#64748b"/>
+<g font-family="Arial" font-size="14" fill="#334155"><text x="35" y="275">Resolvido: 90</text><text x="235" y="275">Pendente: 15</text><text x="425" y="275">Em andamento: 15</text></g></svg>
